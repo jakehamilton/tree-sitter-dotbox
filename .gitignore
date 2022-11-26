@@ -1,0 +1,8 @@
+# Nix
+.direnv
+
+# Node
+node_modules/
+
+# Tree-sitter
+build/
